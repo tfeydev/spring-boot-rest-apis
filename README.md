@@ -9,7 +9,7 @@ Each module focuses on a specific REST API concept, gradually building real-worl
 
 All detailed, step-by-step notes, setup guides, and comprehensive explanations for this course—including architecture deep dives and SQL setup—are hosted publicly on my learning portfolio.
 
-➡️ **Visit the Full Course Notes & Documentation:** [Java & Spring Boot](https://sites.google.com/view/techthordev/learning-hub/backend_development)]
+➡️ **Visit the Full Course Notes & Documentation:** [Java & Spring Boot](https://sites.google.com/view/techthordev/learning-hub/backend_development)
 
 ---
 
