@@ -61,6 +61,18 @@ A practical mini-application:
 
 ---
 
+## 🐘 Local Development Setup (PostgreSQL)
+
+This project, specifically later modules (e.g., those integrating persistence like module 04 and subsequent units not yet listed), requires a running PostgreSQL database. We use Docker to ensure a consistent setup.
+
+### Database Setup Guide:
+
+**For detailed, step-by-step instructions on how to set up, start, and connect to the local PostgreSQL instance using Docker, please refer to the guide on my Google Site:**
+
+➡️ **PostgreSQL/Docker Setup Guide:** [PostgreSQL](https://sites.google.com/view/techthordev/learning-hub/databases)
+
+---
+
 ## ▶️ Running a module
 
 To run a specific module, use:
