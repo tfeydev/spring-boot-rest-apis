@@ -3,6 +3,16 @@
 This repository contains a collection of Spring Boot REST API modules created while following the Udemy course by **Chad Darby** and **Eric Roby**.  
 Each module focuses on a specific REST API concept, gradually building real-world skills in designing modern, maintainable backend systems.
 
+---
+
+## 🌐 Project Documentation & Learning Hub
+
+All detailed, step-by-step notes, setup guides, and comprehensive explanations for this course—including architecture deep dives and SQL setup—are hosted publicly on my learning portfolio.
+
+➡️ **Visit the Full Course Notes & Documentation:** [Java & Spring Boot](https://sites.google.com/view/techthordev/learning-hub/backend_development)
+
+---
+
 ## 📦 Modules Overview
 
 ### **01-books**
@@ -48,6 +58,18 @@ A practical mini-application:
 - **Spring Security**
 - **Springdoc OpenAPI / Swagger UI**
 - **Maven Multi-Module Build**
+
+---
+
+## 🐘 Local Development Setup (PostgreSQL)
+
+This project, specifically later modules (e.g., those integrating persistence like module 04 and subsequent units not yet listed), requires a running PostgreSQL database. We use Docker to ensure a consistent setup.
+
+### Database Setup Guide:
+
+**For detailed, step-by-step instructions on how to set up, start, and connect to the local PostgreSQL instance using Docker, please refer to the guide on my Google Site:**
+
+➡️ **PostgreSQL/Docker Setup Guide:** [PostgreSQL](https://sites.google.com/view/techthordev/learning-hub/databases)
 
 ---
 
