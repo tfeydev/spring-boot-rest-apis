@@ -1,19 +1,34 @@
-package dev.tfey.books.continued.request;
+package br.com.techthordev.books.continued.entity;
 
-public class BookRequest {
+public class Book {
 
+    private long id;
     private String title;
-
     private String author;
-
     private String category;
-
     private int rating;
 
-    public BookRequest(String title, String author, String category, int rating) {
+    public Book(long id, String title, String author, String category, int rating) {
+        this.id = id;
         this.title = title;
         this.author = author;
         this.category = category;
+        this.rating = rating;
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public int getRating() {
+        return rating;
+    }
+
+    public void setRating(int rating) {
         this.rating = rating;
     }
 
@@ -39,13 +54,5 @@ public class BookRequest {
 
     public void setCategory(String category) {
         this.category = category;
-    }
-
-    public int getRating() {
-        return rating;
-    }
-
-    public void setRating(int rating) {
-        this.rating = rating;
     }
 }

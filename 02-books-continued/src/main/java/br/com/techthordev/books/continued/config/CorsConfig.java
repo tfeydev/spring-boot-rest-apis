@@ -1,4 +1,4 @@
-package dev.tfey.books.continued.config;
+package br.com.techthordev.books.continued.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
