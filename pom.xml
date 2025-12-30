@@ -13,6 +13,7 @@
         <module>01-books</module>
         <module>02-books-continued</module>
         <module>03-employees</module>
+        <module>04-todos</module>
     </modules>
 
     <properties>
